@@ -1,0 +1,13 @@
+{
+    "themes": [
+        {
+            "id": "bf9ffaff-0905-4db8-8aa4-823f1ad368ee",
+            "name": "Blossom",
+            "author": "KartoffelChipss",
+            "description": "Blossom is a soft, modern pink-inspired theme that blends delicate rose accents with clean neutrals to create a warm, elegant interface.",
+            "version": "1.0",
+            "path": "themes/blossom.json",
+            "previews": ["assets/previews/blossom-dark.png", "assets/previews/blossom-light.png"]
+        }
+    ]
+}
