@@ -19,6 +19,7 @@ jobs:
       - name: Prepare publish directory
         run: |
           mkdir public
+          cp CNAME public/
           cp index.json public/
           cp -r themes public/
           cp -r assets public/
